@@ -57,8 +57,3 @@ m <- names(y)[which(y == max(y))]
 
 # Print mode
 print(m)
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priv
